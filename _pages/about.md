@@ -16,43 +16,58 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a graduate student studying at the School of Vehicle and Mobility Engineering, Tsinghua University, under the supervision of Professor Diange Yang. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interest lies in autonomous driving map construction, which includes map representation structures, semantic segmentation, multi-sensor fusion, map prior construction, and offline post-processing modules. <a href='https://scholar.google.com/citations?user=GtM_JGkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Outside of academia, I have a passion for music, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about and to find a life partner who shares the journey with me. I also strive to make a positive impact by helping others realize their full potential. 
+
+- My latest resume is available here: [CV](https://peggy.github.io/files/Resume.pdf) [Updated on 10 Mar, 2024].
+- I am seeking 2024 summer intership. If you are interested in my research, please feel free to contact me via [email](mailto:jpj22@mails.tsinghua.edu.cn)
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Tianyu Li$^\ast$, **Peijin Jia$^\ast$**, Bangjun Wang$^\ast$, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *We advocate Lane Segment as a map learning paradigm that seamlessly incorporates both map 🛣️ geometry and 🕸️ topology information.* <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a>
+- [Track Mapless Driving, Autonomous Grand Challenge, CVPR 2024](https://opendrivelab.com/challenge2024/#mapless_driving)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, Bangjun Wang, **Peijin Jia**, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github**](https://github.com/OpenDriveLab/OpenLane-V2) <strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.* <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub" style="opacity: .8"></a>
+- [Track OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
+</div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[**High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey**](https://www.researchgate.net/publication/376101037_High-Definition_Maps_Construction_Based_on_Visual_Sensor_A_Comprehensive_Survey)
+
+Xuewei Tang, Kun Jiang, Mengmeng Yang, Zhaoyang Liu, **Peijin Jia** et.al and Diange Yang
+
+</div>
+</div>
+
+**LaneDag: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism**
+
+**Peijin Jia**, Tuopu Wen, Ziang Luo, Zheng Fu, Jiaqi Liao, Kun Jiang,  Mengmeng Yang, Diange Yang
+
+</div>
+</div>
+
+
+# 📖 Summary
+- Programming Language: Python, C, C++, Matlab
+- English: CET4:598     CET6:541
+-  Based on my project experience, I have gained knowledge and expertise in various aspects of AD maps, including algorithm review, dataset processing (AV2, NuScenes, Openlanev2), topological correlation research, and algorithm optimization. I am proficient in using the PyTorch deep learning framework and familiar with a range of open-source tools such as mmdet, Detectron2, and diffusers. These skills enable me to quickly adapt to internship requirements.
