@@ -54,7 +54,9 @@ Xuewei Tang, Kun Jiang, Mengmeng Yang, Zhaoyang Liu, **Peijin Jia** et.al and Di
 
 
 **LaneDag: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism**
+
 IV submitting
+
 **Peijin Jia**, Tuopu Wen, Ziang Luo, Zheng Fu, Jiaqi Liao, Kun Jiang,  Mengmeng Yang, Diange Yang
 
 
