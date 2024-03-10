@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Peijin Jia's Homepage"
 description              : "Carpe Diem. "
-repository               : "PeggyPeppa/Peggy.github.io"
+repository               : "PeggyPeppa/peggypeppa.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=GtM_JGkAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "jpj22@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
