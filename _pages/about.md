@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a graduate student studying at the School of Vehicle and Mobility Engineering, Tsinghua University, under the supervision of Professor Diange Yang. 
 
-My research interest lies in autonomous driving map construction, which includes map representation structures, semantic segmentation, multi-sensor fusion, map prior construction, and offline post-processing modules. <a href='https://scholar.google.com/citations?user=GtM_JGkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+My research interest lies in autonomous driving map construction, which includes map representation structures, semantic segmentation, multi-sensor fusion, map prior construction, and offline post-processing modules. 
 
 Outside of academia, I have a passion for music, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about and to find a life partner who shares the journey with me. I also strive to make a positive impact by helping others realize their full potential. 
 
@@ -38,8 +38,6 @@ Tianyu Li$^\ast$, **Peijin Jia$^\ast$**, Bangjun Wang$^\ast$, Li Chen, Kun Jiang
 - *We advocate Lane Segment as a map learning paradigm that seamlessly incorporates both map 🛣️ geometry and 🕸️ topology information.* <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a>
 - [Track Mapless Driving, Autonomous Grand Challenge, CVPR 2024](https://opendrivelab.com/challenge2024/#mapless_driving)
 
-</div>
-</div>
 
 [**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
@@ -49,22 +47,17 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, Bangjun Wan
 
 - *The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.* <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub" style="opacity: .8"></a>
 - [Track OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
-</div>
-</div>
 
 [**High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey**](https://www.researchgate.net/publication/376101037_High-Definition_Maps_Construction_Based_on_Visual_Sensor_A_Comprehensive_Survey)
 
 Xuewei Tang, Kun Jiang, Mengmeng Yang, Zhaoyang Liu, **Peijin Jia** et.al and Diange Yang
 
-</div>
-</div>
 
 **LaneDag: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism**
-
+IV submitting
 **Peijin Jia**, Tuopu Wen, Ziang Luo, Zheng Fu, Jiaqi Liao, Kun Jiang,  Mengmeng Yang, Diange Yang
 
-</div>
-</div>
+
 
 
 # 📖 Summary
