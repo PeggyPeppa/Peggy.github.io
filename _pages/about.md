@@ -22,7 +22,6 @@ My research interest lies in autonomous driving map construction, which includes
 
 Outside of academia, I have a passion for music, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about and to find a life partner who shares the journey with me. I also strive to make a positive impact by helping others realize their full potential. 
 
-# - My latest resume is available here: [CV](https://peggy.github.io/docs/Resume.pdf) [Updated on 10 Mar, 2024].
 - If you are interested in my research, please feel free to contact me via [email](mailto:jpj22@mails.tsinghua.edu.cn)
 
 
