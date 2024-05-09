@@ -23,7 +23,7 @@ My research interest lies in autonomous driving map construction, which includes
 Outside of academia, I have a passion for music, traveling, and swimming. In terms of my life goals, I aspire to have a fulfilling career in a field that I am passionate about and to find a life partner who shares the journey with me. I also strive to make a positive impact by helping others realize their full potential. 
 
 - My latest resume is available here: [CV](https://peggy.github.io/docs/Resume.pdf) [Updated on 10 Mar, 2024].
-- I am seeking 2024 summer intership. If you are interested in my research, please feel free to contact me via [email](mailto:jpj22@mails.tsinghua.edu.cn)
+- If you are interested in my research, please feel free to contact me via [email](mailto:jpj22@mails.tsinghua.edu.cn)
 
 
 
@@ -31,26 +31,45 @@ Outside of academia, I have a passion for music, traveling, and swimming. In ter
 
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
+ICLR2024 Accepted
 
 Tianyu Li$^\ast$, **Peijin Jia$^\ast$**, Bangjun Wang$^\ast$, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
 
+**LaneDag: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism**
+
+IV2024 Accepted
+
+**Peijin Jia**, Tuopu Wen, Ziang Luo, Zheng Fu, Jiaqi Liao, Kun Jiang,  Mengmeng Yang, Diange Yang
+
+[**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**](https://arxiv.org/pdf/2405.02008)
+
+RAL submitting
+
+**Peijin Jia**, Tuopu Wen, Ziang Luo, Mengmeng Yang, Kun Jiang, Zhiquan Lei, Xuewei Tang, Ziyuan Liu, Le Cui, Kehua Sheng, Bo Zhang, Diange Yang
+
 [**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
+
+NIPS2023 Accepted
 
 Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, Bangjun Wang, **Peijin Jia**, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
 
 [**High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey**](https://www.researchgate.net/publication/376101037_High-Definition_Maps_Construction_Based_on_Visual_Sensor_A_Comprehensive_Survey)
 
+TIV Accepted
+
 Xuewei Tang, Kun Jiang, Mengmeng Yang, Zhaoyang Liu, **Peijin Jia** et.al and Diange Yang
 
 [**Roadside HD Map Object Reconstruction Using Monocular Camera**](https://ieeexplore.ieee.org/abstract/document/9804831)
 
+RAL Accepted
+
 Tuopu Wen, Kun Jiang, Jinyu Miao, Benny Wijaya, **Peijin Jia**, Mengmeng Yang, Diange Yang
 
-**LaneDag: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism**
+[**A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation**](https://ieeexplore.ieee.org/abstract/document/10475537/)
 
-IV submitting
+TIV Accepted
 
-**Peijin Jia**, Tuopu Wen, Ziang Luo, Zheng Fu, Jiaqi Liao, Kun Jiang,  Mengmeng Yang, Diange Yang
+Jinyu Miao, Kun Jiang, Tuopu Wen, Yunlong Wang, **Peijin Jia**, Benny Wijaya, Xuhe Zhao, Qian Cheng, Zhongyang Xiao, Jin Huang, Zhihua Zhong, Diange Yang
 
 
 
